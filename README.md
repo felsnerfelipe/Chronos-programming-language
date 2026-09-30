@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/54024782-757e-41ec-a4eb-0ac330e94ccc" width="50%" height="50%"/>
+<img src="Images/Chronos logo white.png" width="50%" height="50%"/>
 
 <h2>Chronos-programming-language</h2>
 <p>the Chronos programming language is a simple, assembly-like and fully customizable programming language currently in development.</p>
